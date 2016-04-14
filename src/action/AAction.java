@@ -43,5 +43,7 @@ public class AAction extends Element {
 			
 		}
 		
-		
+		public static void main(String[] args) {
+			System.out.println("Hey Try it more");
+		}
 }
